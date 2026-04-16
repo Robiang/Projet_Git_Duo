@@ -1,0 +1,21 @@
+header {
+    background-color: #1e1e2f; /* fond sombre élégant */
+    color: white;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+header section {
+    width: 100%;
+}
+
+header h1 {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+}
